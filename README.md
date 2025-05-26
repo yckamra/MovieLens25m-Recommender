@@ -8,6 +8,7 @@ TODO:
 4. Train our model and graph our accuracies and loss
 5. Compare our MVP to a Popularity Based Model (just recommends most popular movies) and Item-based Collaborative Filtering (finds similarity in movies vector)
 6. (?) Host the current model in the cloud and create API calls
+7. one-hot encoded vectors, TF-IDF representations, or embeddings
 
 At this point we have an MVP and something that could be submitted
 
