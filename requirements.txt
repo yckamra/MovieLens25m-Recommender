@@ -1,0 +1,5 @@
+numpy
+pandas
+scipy==1.10.1
+scikit-learn
+implicit==0.7.2
